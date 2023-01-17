@@ -6,7 +6,7 @@ so i made this easy to use program to launch a few basic
 commands.
 
 # TODO 
-document code
-add option to limit requests/per second
-better focus on user interaction and customabliity 
-- like specifying payload location
+- document code
+- add option to limit requests/per second
+- better focus on user interaction and customabliity 
+- specify location of wordlists

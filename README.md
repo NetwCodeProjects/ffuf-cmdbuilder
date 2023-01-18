@@ -1,7 +1,7 @@
 # ffuf-cmdbuilder
 Use python to craft ffuf actions.
 it's pretty much a framework to be optimized for your usage.
-i dont like remebering all these argument and flags etc
+i dont like remembering all these arguments and flags etc
 so i made this easy to use program to launch a few basic 
 commands.
 
